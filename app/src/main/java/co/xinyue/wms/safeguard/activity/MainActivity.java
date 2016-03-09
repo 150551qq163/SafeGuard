@@ -1,7 +1,9 @@
-package co.xinyue.wms.safeguard;
+package co.xinyue.wms.safeguard.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import co.xinyue.wms.safeguard.R;
 
 public class MainActivity extends AppCompatActivity {
 
